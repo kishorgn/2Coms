@@ -6,7 +6,14 @@ public class App_01 {
 		System.out.println("Hello world!!!");
 		System.out.println("Welcome to Java Programming");
 		for(int c = 0; c < 10 ; c++) {
-			System.out.println(c);
+			if(c % 2 == 0) {
+				System.out.println(c+" is even");
+			}
+			else {
+				System.out.println(c+" is odd");
+			}
+			
+			
 		}
 		
 		System.out.println("Thank you!!!");
