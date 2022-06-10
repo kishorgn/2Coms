@@ -16,7 +16,7 @@ public class App_01 {
 			
 		}
 		
-		System.out.println("Thank you!!!");
+		
 
 	}
 
